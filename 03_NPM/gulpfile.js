@@ -2,7 +2,7 @@ var gulp = require("gulp");
 var browserSync = require("browser-sync").create();
 var sass = require("gulp-sass");
 var paths = {
-  css: ["node_modules/bootstrao/scss/bootstrap.scss", "src/scss/*.scss"],
+  css: ["node_modules/bootstrap/scss/bootstrap.scss", "src/scss/*.scss"],
   script: [
     "node_modules/bootstrap/dist/js/bootstrap.min.js",
     "node_modules/jquery/dist/jquery.min.js",
