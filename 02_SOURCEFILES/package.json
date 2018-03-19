@@ -1,0 +1,22 @@
+{
+  "name": "sourcefiles",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "liveserver": "browser-sync start --server --files '*.*, */*.*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/ikkg/spri-bootstrap4.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Iker Garcia",
+    "email": "flipas.garcia@gmail.com"
+  },
+  "bugs": {
+    "url": "https: //github.com/ikkg/spri-bootstrap4/issues"
+  },
+  "homepage": "https: //github.com/ikkg/spri-bootstrap4"
+}
